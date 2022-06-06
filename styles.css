@@ -1,0 +1,32 @@
+#caja1{
+    background: black;
+    color: white;
+
+}
+.centro{
+    text-align: center;
+}
+.a-la-der{
+    text-align: right;
+}
+.a-la-izq{
+    text-align: left;
+}
+#caja2{
+    background-color:#F0A83E ;
+    color: white;   
+    
+
+}
+
+#foto1{
+    height: 100%;
+    width: auto;
+    margin: 0%;
+}
+
+#ft {
+    text-align: center;
+    background: black;
+    color: white;
+}
